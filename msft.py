@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 18 04:10:28 2023
 
-@author: FURKAN
+@author: Aqueak
 """
 
 import pandas as pd
