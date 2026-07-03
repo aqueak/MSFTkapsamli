@@ -1,5 +1,5 @@
 getwd()
-setwd("C:/Users/FURKAN/Desktop/R-PYTHON")
+setwd("")
 msft<-read.csv(file.choose())
 
 colnames(MSFT)<-c("date","open","high","low","close",
